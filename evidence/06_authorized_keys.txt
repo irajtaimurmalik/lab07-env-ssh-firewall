@@ -1,0 +1,2 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJxWPuzeHAhgSq/h3M0RG1s3k61VTiHq2YEnj/qGi74c lab7_irajtaimurmalik
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJxWPuzeHAhgSq/h3M0RG1s3k61VTiHq2YEnj/qGi74c lab7_irajtaimurmalik
